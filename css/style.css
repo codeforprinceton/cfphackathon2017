@@ -48,6 +48,10 @@ body {
     div iframe {
         box-shadow: 0px -15px 30px #888888;
     }
+
+    .section-register {
+        box-shadow: 0px -15px 30px #888888;
+    }
 /* --------------------------------------
  * Global Typography
  *------------------------------------------*/
