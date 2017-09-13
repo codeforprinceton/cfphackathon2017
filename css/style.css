@@ -45,7 +45,9 @@ body {
     background  : #ffffff;
     border      : 10px solid #fff;
     }
-
+    div iframe {
+        box-shadow: 0px -15px 30px #888888;
+    }
 /* --------------------------------------
  * Global Typography
  *------------------------------------------*/
@@ -78,6 +80,8 @@ h4 {
     line-height : 1.5em;
     font-weight : 300;
     color: #ff8400;
+    box-shadow: 0px 15px 30px #888888;
+    padding-left: 15px;
     }
 
 h5 {
